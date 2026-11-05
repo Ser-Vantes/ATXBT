@@ -1,0 +1,6 @@
+{
+  "name": "NexusCore Crypto Engine Architecture",
+  "description": "High-traffic crypto-trading platform architecture & distributed Rust/Kafka matching engine system with fault-tolerance blueprints and OlaXBT Nexus analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
